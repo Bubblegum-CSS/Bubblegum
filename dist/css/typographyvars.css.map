@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../../Code/Bubblegum/src/typography/typographyvars.sass"
+    ],
+    "names": [],
+    "file": "typographyvars.css"
+}

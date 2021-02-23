@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../../Code/Bubblegum/src/colors/colors.sass"
+    ],
+    "names": [],
+    "file": "colors.css"
+}

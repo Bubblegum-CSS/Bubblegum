@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../../Code/Bubblegum/src/colors/colorsvars.sass",
+        "../../Code/Bubblegum/src/colors/colors.sass"
+    ],
+    "names": [],
+    "file": "colorsvars.css"
+}
