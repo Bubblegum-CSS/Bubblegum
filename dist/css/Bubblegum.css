@@ -1,45 +1,28 @@
-.button {
-  display: inline-block;
-  position: relative;
-  font-size: 30px;
-  white-space: nowrap;
-  -webkit-user-select: none;
-     -moz-user-select: none;
-      -ms-user-select: none;
-          user-select: none;
-  -webkit-appearance: none;
-     -moz-appearance: none;
-          appearance: none;
-  padding: 7px;
-  vertical-align: middle;
-  border: 1px solid;
-  border-radius: 4px;
-  -webkit-transition: -webkit-box-shadow .3s;
-  transition: -webkit-box-shadow .3s;
-  transition: box-shadow .3s;
-  transition: box-shadow .3s, -webkit-box-shadow .3s; }
-  .button:hover {
-    -webkit-box-shadow: 0 0 11px rgba(33, 33, 33, 0.2);
-            box-shadow: 0 0 11px rgba(33, 33, 33, 0.2); }
+.h0 { font-size: 60px !important; }
 
-.h0 {
-  font-size: 60px !important; }
+.h1 { font-size: 50px !important; }
 
-.h1 {
-  font-size: 50px !important; }
+.h2 { font-size: 40px !important; }
 
-.h2 {
-  font-size: 40px !important; }
+.h3 { font-size: 30px !important; }
 
-.h3 {
-  font-size: 30px !important; }
+.h4 { font-size: 20px !important; }
 
-.h4 {
-  font-size: 20px !important; }
+.h5 { font-size: 10px !important; }
 
-.h5 {
-  font-size: 10px !important; }
+.h6 { font-size: 5px !important; }
 
-.h6 {
-  font-size: 5px !important; }
+.h0 { font-size: 60px !important; }
+
+.h1 { font-size: 50px !important; }
+
+.h2 { font-size: 40px !important; }
+
+.h3 { font-size: 30px !important; }
+
+.h4 { font-size: 20px !important; }
+
+.h5 { font-size: 10px !important; }
+
+.h6 { font-size: 5px !important; }
 /*# sourceMappingURL=Bubblegum.css.map */

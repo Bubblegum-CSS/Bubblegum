@@ -2,7 +2,7 @@
     "version": 3,
     "mappings": "",
     "sources": [
-        "../../Code/Bubblegum/src/colors/colors.sass"
+        "../../src/colors/colors.sass"
     ],
     "names": [],
     "file": "colors.css"
